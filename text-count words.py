@@ -1,4 +1,4 @@
-f=open("aruntext.txt","r")
+f=open("krishtext.txt","r")
 s=f.read()
 l=s.split()
 wordcount=0
