@@ -1,4 +1,4 @@
-f = open("aruntext.txt")
+f = open("krishtext.txt")
 v=0
 c=0
 u=0
